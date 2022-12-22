@@ -9485,6 +9485,9 @@ textarea.form-control-lg {
   .services__pic {
     max-width: 100%; }
 
+.portfolio {
+  padding: 4rem; }
+
 @use '../custom' as *;
 @use '../components/mixins' as *;
 .testimonials {
@@ -9523,6 +9526,49 @@ textarea.form-control-lg {
     .testimonials__name p {
       padding: 2rem;
       text-transform: capitalize; }
+
+@use '../custom' as*;
+@use '../components/mixins' as*;
+.portfolio {
+  padding: 4rem 0; }
+  .portfolio button {
+    text-transform: capitalize; }
+
+.portfolio-box {
+  position: relative;
+  width: 100%;
+  height: 23.5rem;
+  overflow: hidden;
+  margin-bottom: 1.2rem;
+  border-top: 0.5rem solid #BB6EF5; }
+  .portfolio-box img {
+    width: 100%;
+    height: 100%; }
+  .portfolio-box .portfolio-info {
+    background-color: rgba(153, 38, 240, 0.75);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition-duration: .25s;
+    transition-property: all;
+    transition-timing-function: linear; }
+    .portfolio-box .portfolio-info .caption {
+      text-align: center;
+      color: #fff;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%); }
+      .portfolio-box .portfolio-info .caption h4, .portfolio-box .portfolio-info .caption .h4 {
+        text-transform: uppercase;
+        display: block; }
+  .portfolio-box:hover .portfolio-info {
+    opacity: 1;
+    visibility: visible; }
 
 * {
   padding: 0;
