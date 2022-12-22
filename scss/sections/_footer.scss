@@ -1,0 +1,10 @@
+@use '../custom' as *;
+@use '../components/mixins';
+
+.footer {
+    padding: 3rem 0;
+    background-color: $gray-900;
+    color: $white;
+
+    .footer-content {}
+}
