@@ -1,1 +1,10 @@
 # Temp-with-sass-and-bootstrap-1
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_32_53 PM](https://user-images.githubusercontent.com/61079017/211555913-fea7dcb1-6396-4aae-81d3-d0d9c2ee0ae8.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_33_00 PM](https://user-images.githubusercontent.com/61079017/211555915-e8f1d1eb-7c60-48ab-b546-9204a2cb0100.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_33_50 PM](https://user-images.githubusercontent.com/61079017/211555917-2bbff79b-a3e1-49a2-a636-4da90fc9921a.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_33_55 PM](https://user-images.githubusercontent.com/61079017/211555920-bab9f945-c225-460f-95e7-5ddb242eda96.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_33_59 PM](https://user-images.githubusercontent.com/61079017/211555928-41426e10-d807-43f8-9ccc-a318d187457b.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_34_02 PM](https://user-images.githubusercontent.com/61079017/211555931-b4df5ce2-3077-4bb2-b90c-269055805c81.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_34_09 PM](https://user-images.githubusercontent.com/61079017/211555941-2cecb4bd-cc84-4365-9cf3-7e92e4968264.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_34_12 PM](https://user-images.githubusercontent.com/61079017/211555945-c6f9b334-3b1a-4e0b-a971-05fd1b715e72.png)
+![Temp With Bootstrap   SASS - Google Chrome 1_10_2023 12_32_43 PM](https://user-images.githubusercontent.com/61079017/211555950-edf9528b-b0ac-4ef4-8dd7-fd5c60f131cb.png)
